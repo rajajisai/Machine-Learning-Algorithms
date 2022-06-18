@@ -17,6 +17,7 @@ Major Libraries used are numpy, pandas , matplotlib
 
 -Naive Bayes
 
-- -The Naive Bayes is a generative model classifier. Here we have a binary classification problem of spam detection
+- -The Naive Bayes is a generative model classifier.
+- -We have used this classifier in the context spam detection
 - -7-fold cross validation is done on given dataset for Spam detection.
 - -The Laplace smoothing is done by using the prior probability value as (1)/(n + |Vocabulary|).
