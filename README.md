@@ -1,7 +1,7 @@
 # machine-learning-algorithms
 Implementation of basic machine learning algorithms form scratch
 
-Major Libraries - numpy, pandas , matplotlib
+Major Libraries used are numpy, pandas , matplotlib
 
 -Fisher Discriminant
 
