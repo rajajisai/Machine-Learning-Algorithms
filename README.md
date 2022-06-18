@@ -11,9 +11,8 @@ Major Libraries - numpy, pandas , matplotlib
 
 -Linear Perceptron
 
-- -The perceptron classifier is a well known classification especially when the data is linearly separable.
-- -We start with a seed and try to get the optimal solution ( Hyperplane separating the positive and negative) using Stochastic Gradient Descent
-- -We start iterating over all the data points all over again till we reach the terminating condition i.e. either there are no misclassified data points or we exceed the number of iterations.
+- -The perceptron classifier is a well known classification especially when the data is linearly separable.We start with a seed vector and try to get the separating vector i.e the plane separating positive and negative points using Stochastic Gradient Descent
+- -The terminating condition is that in the process of finding optimal solution,there are no misclassified points or we have reached maximum number of iteration
 
 -Naive Bayes
 
